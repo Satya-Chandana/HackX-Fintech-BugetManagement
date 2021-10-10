@@ -25,6 +25,6 @@ Copy the given link and open it in browser like link/register/
 
 
 
-video demo -
-https://drive.google.com/file/d/1sjpsWSP30GToIgeVKnn2f3N9hmMAsofI/view?usp=drivesdk
+video demo - https://youtu.be/w4zt_Bf_E7g
+
 
